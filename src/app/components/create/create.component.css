@@ -1,0 +1,75 @@
+/* .container {
+
+  width: 100%;
+  height: 100vh;
+
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content__section {
+  max-width: 800px;
+}
+
+.content__section>div {
+  width: 15%;
+}
+
+.input-file {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+
+.input-file input[type="file"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+label {
+  font-family: Roboto, sans-serif;
+  margin-left: 2ren1;
+}
+
+input {
+  color: #222;
+  background-color: #eee;
+  border: none;
+  background: #FFF;
+  padding: 10px 15rem;
+}
+
+
+.salver>button {
+  background: darkviolet;
+  border: none;
+  padding: 1rem 15rem;
+  margin-top: 1.2rem;
+
+  font-size: 2rem;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  cursor: pointer;
+} */
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
