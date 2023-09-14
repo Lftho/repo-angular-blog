@@ -1,4 +1,4 @@
-.container__big-card{
+.container__big-card {
 
   margin-left: 20px;
   margin-right: 20px;
@@ -12,20 +12,24 @@
   justify-content: flex-start;
 }
 
-.big-card__title > h1  {
+.big-card__title>h1 {
   margin-top: 15px;
   font-size: 20px;
 }
 
-.big-card__description{
+.big-card__title>h1>a {
+  color: black;
+}
+
+.big-card__description {
   margin-top: 20px;
 }
 
-.big-card__description > p > a {
+.big-card__description>p>a {
   color: grey;
 }
 
-.big-card__photo > img{
+.big-card__photo>img {
   width: 100%;
   min-width: 400px;
 }
