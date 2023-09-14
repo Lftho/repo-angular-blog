@@ -1,14 +1,14 @@
-.container__small-card{
+.container__small-card {
   width: 700px;
   margin-bottom: 15px;
 }
 
-.container__small-card-content{
+.container__small-card-content {
   display: flex;
   flex-direction: row;
 }
 
-.small-card__photo > img {
+.small-card__photo>img {
   width: 200px;
   min-width: 200px;
   margin-right: 20px;
@@ -20,6 +20,10 @@
   align-items: center;
 }
 
-.container__small-card__separator{
+.small-card__title>h1>a {
+  color: black;
+}
+
+.container__small-card__separator {
   margin-top: 10px;
 }
