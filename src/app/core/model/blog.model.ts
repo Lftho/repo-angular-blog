@@ -1,5 +1,5 @@
 export interface blog {
-  id: number;
+  id: number | string;
   title: string;
   description: string;
   photoCover: string;
